@@ -15,4 +15,4 @@ WHY BASH
 5)Misc -Exit status, Redirections,Qutes
 6)conditions
 7)loops
-8)STD-editor
+8)SED-editor
