@@ -10,9 +10,9 @@ WHY BASH
 #shell-scripting
 1 she-Bang & comments
 2 printing
-3varialbles
-4Functions
-5Misc -Exit status, Redirections,Qutes
-6conditions
-7loops
-8SED-editor
+3 varialbles
+4 Functions
+5 Misc -Exit status, Redirections,Qutes
+6 conditions
+7 loops
+8 SED-editor
